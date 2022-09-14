@@ -47,6 +47,7 @@ function App() {
       </Button>
       <TodayPic onClose={onClose} open={dialogOpen} />
       <RandomPics />
+      
     </>
   );
 }
